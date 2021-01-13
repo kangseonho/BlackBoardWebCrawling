@@ -15,5 +15,3 @@ driver.find_element_by_xpath('//*[@id="loginSubmit"]').click()
 
 #BB접속
 driver.find_element_by_xpath('//*[@id="nbHeaderMenuContext"]/li[3]/em/a').click()
-
-
